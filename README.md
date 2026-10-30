@@ -22,5 +22,5 @@ While the SVM dramatically improved sensitivity to the minority class, it introd
 
 ## 📈 Visualizations & Confusion Matrix Analysis
 
-```html](https://github.com/JJAMES02814199808/FARS-Crash-Severity-Analysis-Predictive-Modeling/blob/954089d826aa029f533c3bfc4578f48f1f46af69/confusion_matrix_retrained_svm.png)
+[```html](https://github.com/JJAMES02814199808/FARS-Crash-Severity-Analysis-Predictive-Modeling/blob/954089d826aa029f533c3bfc4578f48f1f46af69/confusion_matrix_retrained_svm.png)](https://github.com/JJAMES02814199808/FARS-Crash-Severity-Analysis-Predictive-Modeling/blob/cdc555974057ff2c9dd79e0514fbb4261fabe20f/confusion_matrix_retrained_svm.png)
 
