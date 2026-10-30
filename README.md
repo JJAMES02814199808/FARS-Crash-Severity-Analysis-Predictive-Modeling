@@ -21,6 +21,6 @@ While the SVM dramatically improved sensitivity to the minority class, it introd
 * **Domain Justification:** In public safety and emergency response analytics, **over-preparing for a potential hazard (a false positive) is significantly less costly than completely failing to identify a high-severity crash (a false negative).** 
 
 ## 📈 Visualizations & Confusion Matrix Analysis
-[[*(Insert your confusion matrix heatmap image here)*
+
 ```html](https://github.com/JJAMES02814199808/FARS-Crash-Severity-Analysis-Predictive-Modeling/blob/954089d826aa029f533c3bfc4578f48f1f46af69/confusion_matrix_retrained_svm.png)
 
